@@ -17,7 +17,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Exploding Insights - Curated Startup Ideas, Sent Weekly",
+  title: "Founders Forge - Curated Startup Ideas, Sent Weekly",
   description:
     "Join 5,000+ elite entrepreneurs getting curated startup ideas and comprehensive guides on building a product in million dollar niches. Launch your empire this weekend.",
 };
